@@ -1,0 +1,24 @@
+{
+  "name": "neo-orm",
+  "version": "1.0.0",
+  "description": "javascript orm \u001b[D\u001b[nodejs\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Corm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ouonet/neo-node-orm.git"
+  },
+  "keywords": [
+    "node",
+    "javascrip",
+    "orm"
+  ],
+  "author": "neo <50712369@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouonet/neo-node-orm/issues"
+  },
+  "homepage": "https://github.com/ouonet/neo-node-orm#readme"
+}
